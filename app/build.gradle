@@ -7,7 +7,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "io.bitrise.sample.android"
+        applicationId "io.bitrise.workflow.recipes.sample.android"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
