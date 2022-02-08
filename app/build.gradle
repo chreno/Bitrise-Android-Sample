@@ -45,4 +45,6 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.3.0'
     androidTestImplementation 'androidx.test:rules:1.3.0'
 
+    implementation project(':module1')
+    implementation project(':module2')
 }
