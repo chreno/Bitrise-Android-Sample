@@ -9,7 +9,7 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class TestClass1 {
+class TestClass9 {
     @Test
     fun test1() {
         Thread.sleep(2000)

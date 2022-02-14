@@ -12,6 +12,61 @@ import org.junit.Assert.*
 class TestClass1 {
     @Test
     fun test1() {
+        Thread.sleep(2000)
+        assertTrue(true)
+    }
+
+    @Test
+    fun test2() {
+        Thread.sleep(2000)
+        assertTrue(true)
+    }
+
+    @Test
+    fun test3() {
+        Thread.sleep(2000)
+        assertTrue(true)
+    }
+
+    @Test
+    fun test4() {
+        Thread.sleep(2000)
+        assertTrue(true)
+    }
+
+    @Test
+    fun test5() {
+        Thread.sleep(2000)
+        assertTrue(true)
+    }
+
+    @Test
+    fun test6() {
+        Thread.sleep(2000)
+        assertTrue(true)
+    }
+
+    @Test
+    fun test7() {
+        Thread.sleep(2000)
+        assertTrue(true)
+    }
+
+    @Test
+    fun test8() {
+        Thread.sleep(2000)
+        assertTrue(true)
+    }
+
+    @Test
+    fun test9() {
+        Thread.sleep(2000)
+        assertTrue(true)
+    }
+
+    @Test
+    fun test10() {
+        Thread.sleep(2000)
         assertTrue(true)
     }
 }

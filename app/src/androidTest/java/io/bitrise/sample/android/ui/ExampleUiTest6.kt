@@ -14,7 +14,7 @@ import org.junit.runner.RunWith
 
 @RunWith(AndroidJUnit4::class)
 @LargeTest
-class HelloWorldEspressoTest3 {
+class HelloWorldEspressoTest6 {
 
     @get:Rule
     val activityRule = ActivityScenarioRule(MainActivity::class.java)

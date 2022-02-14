@@ -1,4 +1,4 @@
-package io.bitrise.sample.module1
+package io.bitrise.sample.android.module2
 
 import org.junit.Test
 
@@ -9,7 +9,7 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class TestClass1 {
+class TestClass10 {
     @Test
     fun test1() {
         Thread.sleep(2000)
