@@ -21,61 +21,61 @@ class HelloWorldEspressoTest7 {
 
     @Test
     fun helloWorldIsVisible() {
-        Thread.sleep(2000)
+        Thread.sleep(4000)
         onView(withText("Hello World!")).check(matches(isDisplayed()))
     }
 
     @Test
     fun helloWorldIsVisible2() {
-        Thread.sleep(2000)
+        Thread.sleep(4000)
         onView(withText("Hello World!")).check(matches(isDisplayed()))
     }
 
     @Test
     fun helloWorldIsVisible3() {
-        Thread.sleep(2000)
+        Thread.sleep(4000)
         onView(withText("Hello World!")).check(matches(isDisplayed()))
     }
 
     @Test
     fun helloWorldIsVisible4() {
-        Thread.sleep(2000)
+        Thread.sleep(4000)
         onView(withText("Hello World!")).check(matches(isDisplayed()))
     }
 
     @Test
     fun helloWorldIsVisible5() {
-        Thread.sleep(2000)
+        Thread.sleep(4000)
         onView(withText("Hello World!")).check(matches(isDisplayed()))
     }
 
     @Test
     fun helloWorldIsVisible6() {
-        Thread.sleep(2000)
+        Thread.sleep(4000)
         onView(withText("Hello World!")).check(matches(isDisplayed()))
     }
 
     @Test
     fun helloWorldIsVisible7() {
-        Thread.sleep(2000)
+        Thread.sleep(4000)
         onView(withText("Hello World!")).check(matches(isDisplayed()))
     }
 
     @Test
     fun helloWorldIsVisible8() {
-        Thread.sleep(2000)
+        Thread.sleep(4000)
         onView(withText("Hello World!")).check(matches(isDisplayed()))
     }
 
     @Test
     fun helloWorldIsVisible9() {
-        Thread.sleep(2000)
+        Thread.sleep(4000)
         onView(withText("Hello World!")).check(matches(isDisplayed()))
     }
 
     @Test
     fun helloWorldIsVisible10() {
-        Thread.sleep(2000)
+        Thread.sleep(4000)
         onView(withText("Hello World!")).check(matches(isDisplayed()))
     }
 }
